@@ -36,7 +36,15 @@
 
 **Neste módulo, aprendemos:**
 
-
+* Entendemos o que é Object Calisthenics propriamente dito
+* Não usar getters nem setters
+* Métodos devem ter apenas 1 nível de indentação
+* Não usar else (nunca)
+* Envolva tipos primitivos que possuam comportamento (desacoplar numa classe própria)
+* Tenha classes específicas de coleção
+* Tenha apenas 1 ponto (operador de acesso de objetos) por linha (instrução)
+* Não abrevie nomes (nunca)
+* Mantenha suas classes e pacotes pequenos
 
 <hr>
 
