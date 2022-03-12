@@ -1,10 +1,12 @@
-## Estudando princípios do SOLID
+## Estudando boas práticas de programação
 
 <hr>
 
 ##
 
-**Nesta módulo, aprendemos:**
+## Princípios SOLID
+
+**Neste módulo, aprendemos:**
 
 * Que é mais interessante e mais seguro para o nosso código depender de interfaces (classes abstratas, assinaturas de métodos e interfaces em si) do que das implementações de uma classe.
 
@@ -30,4 +32,12 @@
 ##
 
 
+## Object calisthenics
 
+**Neste módulo, aprendemos:**
+
+
+
+<hr>
+
+##
